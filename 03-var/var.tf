@@ -66,5 +66,5 @@ variable "sample6" {
 }
 
 output "sample6" {
-  value = var.sample6[boolean]
+  value = var.sample6["boolean"]
 }
