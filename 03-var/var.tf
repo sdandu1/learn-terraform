@@ -42,12 +42,12 @@ output "sample4" {
   value = var.sample4
 }
 
-#List variable
+#List variable type
 variable "sample5" {
   default = [
     "hello",
     1000,
-    True,
+    "xyz"
   ]
 }
 
