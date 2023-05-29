@@ -1,5 +1,5 @@
 output "demo" {
-  value = "Hello World"
+  value = "Hello World, hello"
 }
 
 output "demo1" {
