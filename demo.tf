@@ -3,5 +3,9 @@ output "demo" {
 }
 
 output "demo1" {
-  value = "Hello world"
+  value = "Hello world1"
+}
+
+output "demo2" {
+  value = "hello world2"
 }
