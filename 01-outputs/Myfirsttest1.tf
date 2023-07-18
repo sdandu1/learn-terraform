@@ -10,3 +10,7 @@ output "test2" {
 output "test3" {
   value = "Helloworld3"
 }
+
+output "test4" {
+                 value = "Helloworld4"
+               }
