@@ -12,5 +12,5 @@ output "test3" {
 }
 
 output "test4" {
-                 value = "Helloworld4"
-               }
+ value = "Helloworld4"
+}
